@@ -133,11 +133,110 @@ d=0.005h*1000=0.5mh
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+2. Localice los siguientes números en el plano complejo:
+
+![image](https://user-images.githubusercontent.com/116772918/219843136-b2618673-79ce-4f91-8602-b364c86d8eaf.png)
+
+3.¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
+
+![image](https://user-images.githubusercontent.com/116772918/219843144-268c2dd7-ea26-41c6-9af7-9d90b0b40bbb.png)
+
+5.Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud.
+
+![image](https://user-images.githubusercontent.com/116772918/219843160-8e86ae6a-418d-4f81-a3bc-846398eda92e.png)
 
 
+![image](https://user-images.githubusercontent.com/116772918/219843187-a5c406bb-254b-4982-ab44-5ef947eb7c1f.png)
+
+![image](https://user-images.githubusercontent.com/116772918/219843216-af7cf7c6-08da-4434-9c42-0acb85476787.png)
+
+8. Convierta cada uno de los siguientes números rectangulares a forma polar:
+
+![image](https://user-images.githubusercontent.com/116772918/219843329-0638f6f7-7b48-4f60-8650-4905f3ab6080.png)
+
+9.Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
+
+![image](https://user-images.githubusercontent.com/116772918/219843334-8ebe08ea-6979-4878-aa51-99f9bf3bd2d4.png)
+
+11.¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
+
+![image](https://user-images.githubusercontent.com/116772918/219843345-923aa6fa-c0f8-4929-8a8e-0551d5d818ab.png)
+
+12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?
+
+![image](https://user-images.githubusercontent.com/116772918/219843363-b07d36b5-2ff2-4dae-ad8e-e3f49bdc9a01.png)
+
+15.Determine las siguientes cantidades en la figura 14-46.
+
+![image](https://user-images.githubusercontent.com/116772918/219843388-dafcb0c5-eccd-438a-9a3b-8132ff16605c.png)
 
 
+17.¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300Ω en el circuito primario?
 
+![image](https://user-images.githubusercontent.com/116772918/219843397-b00bf1f7-4e4c-43aa-890e-c0ae4353651d.png)
+
+
+18. En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia
+máxima al altavoz de 4 Æ.
+
+![image](https://user-images.githubusercontent.com/116772918/219843419-24d7193d-b7b4-4a1d-8081-08823f2de998.png)
+
+21.En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
+
+![image](https://user-images.githubusercontent.com/116772918/219843429-b098423b-4742-431d-a40b-38dc28cadd86.png)
+
+
+23.Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.
+
+El coeficiente de acoplamiento es el porcentaje de flujo magnético que llego en realidad al devanado secundario.
+
+![image](https://user-images.githubusercontent.com/116772918/219843447-94adedb6-40dc-482d-b06a-2c6cb541cdea.png)
+
+24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de
+ca. El voltaje secundario es de 600 V.
+
+
+(a) ¿Cuál es la corriente máxima en la carga?
+
+![image](https://user-images.githubusercontent.com/116772918/219843483-46520a51-e496-43f4-b627-e28ee6fdc9de.png)
+
+
+(b) ¿Cuál es el valor RL más pequeño que puede ser excitado?
+
+![image](https://user-images.githubusercontent.com/116772918/219843489-85975564-98bb-410f-acf8-f156571c8575.png)
+
+
+(c) ¿Cuál es el capacitor más grande que se puede conectar como carga?
+
+
+![image](https://user-images.githubusercontent.com/116772918/219843495-4f6ec4f6-770a-498d-8b81-bd468b0d3dac.png)
+
+
+27.Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
+
+![image](https://user-images.githubusercontent.com/116772918/219843512-d2f5db3e-534c-45f1-b8ae-75f95fd03795.png)
+
+29.Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
+
+![image](https://user-images.githubusercontent.com/116772918/219843527-bea555dc-83f5-471c-9dc5-3bd4da965402.png)
+
+![image](https://user-images.githubusercontent.com/116772918/219843533-e5acf6ca-dafd-4847-a668-e14abf2a34bb.png)
+
+
+30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240 V
+
+
+![image](https://user-images.githubusercontent.com/116772918/219843554-b4480985-4eac-4178-bbc9-6f4061e96d15.png)
+
+
+32. Cuando se aplican 120 V de ca a través del devanado primario de un transformador y se verifica el voltaje en el devanado secundario, se leen 0 V. Una investigación más a fondo muestra que no hay corriente en el primario ni en el secundario. Enumere las posibles fallas. ¿Cuál es el siguiente paso en la investigación del problema?
+
+
+Si el primario se corta, se extrae una corriente excesiva que potencialmente puede quemar la fuente y el transformador a menos que el primario esté fusionado
+
+34. Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser aunque no es de cero. ¿Cuál es la falla más probable?
+
+Algunos, pero no todos, de los devanados secundarios estan cortocircuitados o el voltaje primario es interior a esperado
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **4. VIDEO**
@@ -149,7 +248,7 @@ d=0.005h*1000=0.5mh
 
 **5. CONCLUSIONES**
 
-
+En conclucion los inductores y bobinas representan gran parte del desarrollo tecnologico de las ultimas decadas, estos permitieron el concepto general de la electronica moderna gracias a que pudieron acoplarse a los aprendisajes previos de esta manera se genera en gran parte los sistemas electronicos cotidianos que tenemos en la actualidad ,ademas al realizar este informe pude aprender más el uso de capacitores e inductores, ya que con ello aprendí a identificar de mejor manera cómo influye la frecuencia en los cambios de sus valores, entendiendo de mejor manera el uso y lectura de ondas seno. Además de ello fue importante la realización y desarrollo de los ejercicios propuestos en los capitulos para llevar y reforzar los temas tratados en clase de mejor manera.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
